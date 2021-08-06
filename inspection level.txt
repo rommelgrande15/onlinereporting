@@ -1,0 +1,276 @@
+function samplechecknew(gil){
+
+var btnid = gil.id
+ct = btnid.split('ins_lvl')[1];
+
+//alert(ct);
+
+var qua = document.getElementById('qty1' + ct).value;
+var inlvl = document.getElementById('ins_lvl' + ct).value;
+
+if (inlvl == 'N1'){
+	if (qua >= 2 && qua <= 8){
+		document.getElementById('sampsize' + ct).value = 2;
+	}else if(qua >= 9 && qua <= 15){
+		document.getElementById('sampsize' + ct).value = 2;
+	}else if(qua >= 16 && qua <= 25){
+		document.getElementById('sampsize' + ct).value = 3;
+	}else if(qua >= 26 && qua <= 50){
+		document.getElementById('sampsize' + ct).value = 5;
+	}else if(qua >= 51 && qua <= 90){
+		document.getElementById('sampsize' + ct).value = 5;
+	}else if(qua >= 91 && qua <= 150){
+		document.getElementById('sampsize' + ct).value = 8;
+	}else if(qua >= 151 && qua <= 280){
+		document.getElementById('sampsize' + ct).value = 13;
+	}else if(qua >= 281 && qua <= 500){
+		document.getElementById('sampsize' + ct).value = 20;
+	}else if(qua >= 501 && qua <= 1200){
+		document.getElementById('sampsize' + ct).value = 32;
+	}else if(qua >= 1201 && qua <= 3200){
+		document.getElementById('sampsize' + ct).value = 50;
+	}else if(qua >= 3201 && qua <= 10000){
+		document.getElementById('sampsize' + ct).value = 80;
+	}else if(qua >= 10001 && qua <= 35000){
+		document.getElementById('sampsize' + ct).value = 125;
+	}else if(qua >= 35001 && qua <= 150000){
+		document.getElementById('sampsize' + ct).value = 200;
+	}else if(qua >= 150001 && qua <= 500000){
+		document.getElementById('sampsize' + ct).value = 315;
+	}else if(qua >=500001){
+		document.getElementById('sampsize' + ct).value = 500;
+	}else if(qua == 1){
+		alert("Minimum Quantity is '2' ");
+	}else{
+		alert("Please enter a Quantity");
+	}
+
+}else if(inlvl == 'N2'){
+	if (qua >= 2 && qua <= 8){
+		document.getElementById('sampsize' + ct).value = 2;
+	}else if(qua >= 9 && qua <= 15){
+		document.getElementById('sampsize' + ct).value = 3;
+	}else if(qua >= 16 && qua <= 25){
+		document.getElementById('sampsize' + ct).value = 5;
+	}else if(qua >= 26 && qua <= 50){
+		document.getElementById('sampsize' + ct).value = 8;
+	}else if(qua >= 51 && qua <= 90){
+		document.getElementById('sampsize' + ct).value = 13;
+	}else if(qua >= 91 && qua <= 150){
+		document.getElementById('sampsize' + ct).value = 20;
+	}else if(qua >= 151 && qua <= 280){
+		document.getElementById('sampsize' + ct).value = 32;
+	}else if(qua >= 281 && qua <= 500){
+		document.getElementById('sampsize' + ct).value = 50;
+	}else if(qua >= 501 && qua <= 1200){
+		document.getElementById('sampsize' + ct).value = 80;
+	}else if(qua >= 1201 && qua <= 3200){
+		document.getElementById('sampsize' + ct).value = 125;
+	}else if(qua >= 3201 && qua <= 10000){
+		document.getElementById('sampsize' + ct).value = 200;
+	}else if(qua >= 10001 && qua <= 35000){
+		document.getElementById('sampsize' + ct).value = 315;
+	}else if(qua >= 35001 && qua <= 150000){
+		document.getElementById('sampsize' + ct).value = 500;
+	}else if(qua >= 150001 && qua <= 500000){
+		document.getElementById('sampsize' + ct).value = 800;
+	}else if (qua >=500001){
+		document.getElementById('sampsize' + ct).value = 1250;
+	}else if(qua == 1){
+		alert("Minimum Quantity is '2' ");
+	}else{
+		alert("Please enter a Quantity");
+	}
+}else if(inlvl == 'N3'){
+	if (qua >= 2 && qua <= 8){
+		document.getElementById('sampsize' + ct).value = 3;
+	}else if(qua >= 9 && qua <= 15){
+		document.getElementById('sampsize' + ct).value = 5;
+	}else if(qua >= 16 && qua <= 25){
+		document.getElementById('sampsize' + ct).value = 8;
+	}else if(qua >= 26 && qua <= 50){
+		document.getElementById('sampsize' + ct).value = 13;
+	}else if(qua >= 51 && qua <= 90){
+		document.getElementById('sampsize' + ct).value = 20;
+	}else if(qua >= 91 && qua <= 150){
+		document.getElementById('sampsize' + ct).value = 32;
+	}else if(qua >= 151 && qua <= 280){
+		document.getElementById('sampsize' + ct).value = 50;
+	}else if(qua >= 281 && qua <= 500){
+		document.getElementById('sampsize' + ct).value = 80;
+	}else if(qua >= 501 && qua <= 1200){
+		document.getElementById('sampsize' + ct).value = 125;
+	}else if(qua >= 1201 && qua <= 3200){
+		document.getElementById('sampsize' + ct).value = 200;
+	}else if(qua >= 3201 && qua <= 10000){
+		document.getElementById('sampsize' + ct).value = 315;
+	}else if(qua >= 10001 && qua <= 35000){
+		document.getElementById('sampsize' + ct).value = 500;
+	}else if(qua >= 35001 && qua <= 150000){
+		document.getElementById('sampsize' + ct).value = 800;
+	}else if(qua >= 150001 && qua <= 500000){
+		document.getElementById('sampsize' + ct).value = 1250;
+	}else if(qua >= 500001){
+		document.getElementById('sampsize' + ct).value = 2000;
+	}else if(qua == 1){
+		alert("Minimum Quantity is '2' ");
+	}else{
+		alert("Please enter a Quantity");
+	}
+}
+}
+
+
+function specialsamplecheck(){
+		var qua = document.getElementById('qty1').value;
+		var spelvl = document.getElementById('spe_lvl').value;
+
+		if(spelvl == 'S1'){
+			if (qua >= 2 && qua <= 8){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 9 && qua <= 15){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 16 && qua <= 25){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 26 && qua <= 50){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 51 && qua <= 90){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 91 && qua <= 150){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 151 && qua <= 280){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 281 && qua <= 500){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 501 && qua <= 1200){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 1201 && qua <= 3200){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 3201 && qua <= 10000){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 10001 && qua <= 35000){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 35001 && qua <= 150000){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 150001 && qua <= 500000){
+				document.getElementById('sampsizespec').value = 8
+			}else if(qua >= 500001){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua == 1){
+				alert("Minimum quantity is '2'");
+			}else{
+				alert("Please enter a Quantity");
+			}
+		}else if(spelvl == 'S2'){
+			if (qua >= 2 && qua <= 8){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 9 && qua <= 15){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 16 && qua <= 25){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 26 && qua <= 50){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 51 && qua <= 90){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 91 && qua <= 150){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 151 && qua <= 280){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 281 && qua <= 500){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 501 && qua <= 1200){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 1201 && qua <= 3200){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 3201 && qua <= 10000){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 10001 && qua <= 35000){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 35001 && qua <= 150000){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 150001 && qua <= 500000){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 500001){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua == 1){
+				alert("Minimun quanitty is '2'");
+			}else{
+				alert("Please enter a Quantity");
+			}
+		}else if(spelvl == 'S3'){
+			if (qua >= 2 && qua <= 8){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 9 && qua <= 15){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 16 && qua <= 25){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 26 && qua <= 50){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 51 && qua <= 90){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 91 && qua <= 150){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 151 && qua <= 280){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 281 && qua <= 500){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 501 && qua <= 1200){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 1201 && qua <= 3200){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 3201 && qua <= 10000){
+				document.getElementById('sampsizespec').value = 20;
+			}else if(qua >= 10001 && qua <= 35000){
+				document.getElementById('sampsizespec').value = 20;
+			}else if(qua >= 35001 && qua <= 150000){
+				document.getElementById('sampsizespec').value = 32;
+			}else if(qua >= 150001 && qua <= 500000){
+				document.getElementById('sampsizespec').value = 32
+			}else if(qua >= 500001){
+				document.getElementById('sampsizespec').value = 50;
+			}else if(qua == 1){
+				alert("Minimum Quantity is '2'");
+			}else{
+				alert("Please enter a Quantity");
+			}
+		}else if(spelvl == 'S4'){
+			if (qua >= 2 && qua <= 8){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 9 && qua <= 15){
+				document.getElementById('sampsizespec').value = 2;
+			}else if(qua >= 16 && qua <= 25){
+				document.getElementById('sampsizespec').value = 3;
+			}else if(qua >= 26 && qua <= 50){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 51 && qua <= 90){
+				document.getElementById('sampsizespec').value = 5;
+			}else if(qua >= 91 && qua <= 150){
+				document.getElementById('sampsizespec').value = 8;
+			}else if(qua >= 151 && qua <= 280){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 281 && qua <= 500){
+				document.getElementById('sampsizespec').value = 13;
+			}else if(qua >= 501 && qua <= 1200){
+				document.getElementById('sampsizespec').value = 20;
+			}else if(qua >= 1201 && qua <= 3200){
+				document.getElementById('sampsizespec').value = 32;
+			}else if(qua >= 3201 && qua <= 10000){
+				document.getElementById('sampsizespec').value = 32;
+			}else if(qua >= 10001 && qua <= 35000){
+				document.getElementById('sampsizespec').value = 50;
+			}else if(qua >= 35001 && qua <= 150000){
+				document.getElementById('sampsizespec').value = 80;
+			}else if(qua >= 150001 && qua <= 500000){
+				document.getElementById('sampsizespec').value = 80
+			}else if(qua >= 500001){
+				document.getElementById('sampsizespec').value = 125;
+			}else if(qua == 1){
+				alert("Minimun quantity is '2'");
+			}else{
+				alert("Please enter a Quantity");
+			}
+		}
+
+	}
+	
+	

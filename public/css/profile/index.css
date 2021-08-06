@@ -1,0 +1,57 @@
+.panel.main-content-panel {
+    border-radius: 0;
+    margin: 0;
+    border: 0;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #ffa500;
+    border-color: #ffa500;
+}
+
+.max{
+	margin-bottom: 5px;
+}
+
+.heading-text{
+	font-size: 18px;
+	background-color: #ffa500 !important;
+}
+.badges{
+	margin:auto;
+}
+.description{
+	margin-bottom: 25px;
+}
+.list{
+	margin-top: 10px;
+	line-height: 2;
+	font-weight: bold;
+}
+.panel-body{
+	border-bottom: 5px solid #ffa500;
+}
+
+.panel-content{
+	height: 580px;
+}
+
+.company-avatar{
+	margin-bottom: 25px;
+	
+}
+
+.company-avatar>p{
+	margin-top: 10px;
+}
+.company-avatar>p>a{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#cancel_btn, #save_btn{
+	display: none;
+}

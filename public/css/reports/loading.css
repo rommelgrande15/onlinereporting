@@ -1,0 +1,29 @@
+.table-header-background-color-red{
+	background: #ff0000;
+	color: #fff;
+}
+.bold{
+	font-weight: bold;
+}
+.capitalize{
+	text-transform: capitalize;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.table-header-background-color-grey{
+	background: #959595;
+	color: #fff;
+}
+.table-header-background-color-black{
+	background: #000;
+	color: #fff;
+}
+.bold-red-text{
+	color: #ff0000;
+	font-weight: bold;
+}
+.fill-with-image{
+	vertical-align: bottom;
+	text-align: center;
+}

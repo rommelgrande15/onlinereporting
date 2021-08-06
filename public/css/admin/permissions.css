@@ -1,0 +1,44 @@
+.panel.main-content-panel {
+    border-radius: 0;
+    margin: 0;
+    border: 0;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #fba026;
+    border-color: #fba026;
+}
+
+.max{
+	margin-bottom: 5px;
+}
+
+.heading-text{
+	font-size: 18px;
+	background-color: #fba026 !important;
+}
+.badges{
+	max-width: 150px;
+	margin:auto;
+}
+.description{
+	margin-bottom: 25px;
+}
+.list{
+	margin-top: 10px;
+	line-height: 2;
+	font-weight: bold;
+}
+.panel-body{
+	border-bottom: 5px solid #fba026;
+}
+
+.panel-content{
+	height: 580px;
+}
+.buttons{
+	margin: 20px 0px;
+}

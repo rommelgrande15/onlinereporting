@@ -1,0 +1,28 @@
+th{
+	text-align: center;
+}
+.legend-label{
+	font-weight: bold;
+}
+
+.disabled{
+	background: #e5e5e5 !important;
+	cursor: not-allowed;
+}
+
+.legend{
+	padding: 10px 0px;
+    border-bottom: 2px dashed #d5d5d5;
+    background: #d5d5d5;
+}
+.legend-title{
+	font-size: 18px;
+	margin-right: 15px;
+}
+.table-wrapper{
+	padding:10px 0px 0px 0px;
+}
+
+.panel-body {
+    padding: 0px 15px 15px 15px !important;
+}

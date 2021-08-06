@@ -1,0 +1,15 @@
+php_flag xcache.cacher Off
+php_flag xcache.size 0
+php_flag xcache.stat Off
+
+##RewriteEngine on
+##RewriteCond %{HTTPS} off
+##RewriteCond %{HTTP_HOST} ^ticapp.tk$
+##RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_headers.c>
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
+Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
+</IfModule>
+

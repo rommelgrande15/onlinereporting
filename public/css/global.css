@@ -1,0 +1,151 @@
+.orange-background {
+    background: #ffa500 !important;
+    color: #fff !important;
+}
+
+.orange-text {
+    color: #ffa500 !important;
+}
+
+.orange-border {
+    border-color: #ffa500 !important;
+}
+
+.sera-background {
+    background: #f71d3a !important;
+    color: #fff !important;
+}
+
+.sera-text {
+    color: #f71d3a !important;
+}
+
+.sera-border {
+    border-color: #f71d3a !important;
+}
+
+.no-bullet {
+    list-style: none;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #ffa500 !important;
+    border-color: #eea236;
+}
+
+.white-text {
+    color: #fff !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.error-messages {
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.heading-text {
+    font-size: 18px;
+    background-color: #ffa500 !important;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #3cb5d0;
+    border-color: #3cb5d0;
+}
+
+.underline {
+    border-bottom: 1px solid #d5d5d5;
+    margin-bottom: 10px;
+}
+
+.border-top {
+    border-top: 1px solid #d5d5d5;
+    background: #efefef;
+}
+
+.copyright-text {
+    margin: 20px auto;
+}
+
+.anchor-no-underline {
+    text-decoration: none;
+    color: #3cb5d0;
+}
+
+.anchor-no-underline:hover {
+    color: #3cb5d0;
+}
+
+.navbar-brand {
+    height: 77px;
+    padding: 4px 19px !important;
+}
+
+.navbar {
+    margin-bottom: 1px !important;
+}
+
+.navbar-nav {
+    margin: 13px -15px !important;
+}
+
+.nav-pills>li>a {
+    color: #fff;
+    background-color: #ffa500;
+}
+
+.nav-pills>li>a:hover,
+.nav-pills>li>a:focus {
+    color: #fff;
+    background-color: #ffa500;
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #3cb5d0;
+}
+
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:hover {
+    background-color: #3cb5d0;
+    border-color: #3cb5d0;
+}
+
+.navbar-nav>.open>a {
+    background-color: transparent !important;
+}
+
+.btn-warm {
+    background: #39adc6;
+    border-color: #3cb5d0;
+    color: #fff;
+}
+
+.btn-warm:hover {
+    background: #3cb5d0;
+    border-color: #3cb5d0;
+    color: #fff;
+}
+
+.btn-one {
+    background: #39adc6;
+    border-color: #337ab7;
+}
+
+.big-panel {
+    padding: 0px !important;
+}
+
+.sidebar-container {
+    padding-bottom: 50px;
+}

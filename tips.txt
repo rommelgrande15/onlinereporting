@@ -1,0 +1,9 @@
+Here a common list of HTTP status code which you face everytime in application :
+
+400 for Bad Request
+403 for Forbidden
+404 for Not Found
+408 for Request Timeout
+408 for Request Timeout
+500 for Internal Server Error
+You can create a view file like 400.blade.php 403.blade.php 404.blade.php 500.blade.php for this type of HTTP status code .

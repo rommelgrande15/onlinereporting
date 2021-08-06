@@ -1,0 +1,9 @@
+.btn-control-wrapper{
+	margin-bottom: 25px;
+}
+#update_factory{
+	display: none;
+}
+#edit-email-error{
+	color: #f00;
+}

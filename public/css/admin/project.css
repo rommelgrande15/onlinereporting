@@ -1,0 +1,135 @@
+.products-list:first-child .btn-remove {
+    display: none;
+}
+
+.panel.main-content-panel {
+    border-radius: 0;
+    margin: 0;
+    border: 0;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #fba026;
+    border-color: #fba026;
+}
+
+.max {
+    margin-bottom: 5px;
+}
+
+.heading {
+    color: #fba026 !important;
+}
+
+.heading-text {
+    font-size: 18px;
+    background-color: #fba026 !important;
+}
+
+.badges {
+    max-width: 150px;
+    margin: auto;
+}
+
+.description {
+    margin-bottom: 25px;
+}
+
+.list {
+    margin-top: 10px;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.panel-body {
+    border-bottom: 5px solid #fba026;
+}
+
+.panel-body-sera {
+    border-bottom: 5px solid #f71d3a !important;
+}
+
+.panel-content {
+    height: 580px;
+}
+
+input.error,
+select.error {
+    background: #ffcccc;
+}
+
+.error {
+    color: red;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.products-list {
+    margin-bottom: 10px;
+}
+
+.group-header {
+    background: #e5e5e5;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+    border: 1px solid #d3d3d3;
+    text-align: right;
+    height: 33px;
+}
+
+.group-body {
+    border: 1px solid #d3d3d3;
+    padding: 10px;
+}
+
+.loading_form {
+    display: none;
+}
+
+.file_upload {
+    border: 2px dashed #555;
+    min-height: 169px;
+    cursor: pointer;
+}
+
+.default-dropzone-text {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.text-default {
+    font-style: italic;
+    font-weight: 200;
+}
+
+.se-pre-con {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('/images/loader-64x/Preloader_8.gif') center no-repeat #fff;
+}
+
+.send-loading {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100vh;
+    z-index: 9999;
+    background: url('/images/loader-64x/loader.gif') center no-repeat rgba(255, 255, 255, 0.5);
+    overflow: hidden;
+    display: none;
+}
+
+.dropzone-container.dz-clickable {
+    cursor: pointer;
+    overflow-y: auto;
+}

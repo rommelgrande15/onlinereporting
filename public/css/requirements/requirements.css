@@ -1,0 +1,13 @@
+hr{
+	border-top: 3px dashed #d3d3d3;
+}
+.questions{
+	font-size: 18px;
+	font-weight: bold;
+}
+#save_requirements{
+	display: none;
+}
+#cancel_requirements{
+	display: none;
+}

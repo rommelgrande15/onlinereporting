@@ -1,0 +1,41 @@
+php_flag xcache.cacher Off
+php_flag xcache.size 0
+php_flag xcache.stat Off
+
+##RewriteEngine on
+##RewriteCond %{HTTPS} off
+##RewriteCond %{HTTP_HOST} ^ticapp.tk$
+##RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_rewrite.c>
+
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+    
+    ##force https
+    RewriteCond %{HTTPS} !=on [NC]
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+    Header always set Strict-Transport-Security "max-age=31536000"
+	
+	# Respond with a 200 success on every OPTION request
+	RewriteCond %{REQUEST_METHOD} OPTIONS
+	RewriteRule ^(.*)$ $1 [R=200,L]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} ^(.*)
+    RewriteRule ^ - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+    
+  
+</IfModule>

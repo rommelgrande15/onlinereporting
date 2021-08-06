@@ -1,0 +1,1194 @@
+[{
+
+
+
+    "Accessories / components": [{
+        "val": "ACLI (Auto leakage circuit interrupter)",
+        "text": "ACLI (Auto leakage circuit interrupter)"
+    }, {
+        "val": "Battery",
+        "text": "Battery"
+    }, {
+        "val": "Battery charger /Adaptor",
+        "text": "Battery charger /Adaptor"
+    }, {
+        "val": "Cable / wire/ Cord reel / Ext cord & Receptable",
+        "text": "Cable / wire/ Cord reel / Ext cord & Receptable"
+    }, {
+        "val": "CD/DVD Recording Disc",
+        "text": "CD/DVD Recording Disc"
+    }, {
+        "val": "Circuit breaker",
+        "text": "Circuit breaker"
+    }, {
+        "val": "Jumpstart",
+        "text": "Jumpstart"
+    }, {
+        "val": "Junction box / Wall plate / Electric box / wall outlet",
+        "text": "Junction box / Wall plate / Electric box / wall outlet"
+    }, {
+        "val": "Lampholder",
+        "text": "Lampholder"
+    }, {
+        "val": "Motor",
+        "text": "Motor"
+    }, {
+        "val": "Plug / Socket",
+        "text": "Plug / Socket"
+    }, {
+        "val": "Power inverters",
+        "text": "Power inverters"
+    }, {
+        "val": "Power Strip",
+        "text": "Power Strip"
+    }, {
+        "val": "Rechargeable battery",
+        "text": "Rechargeable battery"
+    }, {
+        "val": "Surge Protector",
+        "text": "Surge Protector"
+    }, {
+        "val": "Swtiches / Switch plate / Dimmer",
+        "text": "Swtiches / Switch plate / Dimmer"
+    }, {
+        "val": "Transformers",
+        "text": "Transformers"
+    }],
+
+    "Apparel": [{
+        "val": "Bed sheet",
+        "text": "Bed sheet"
+    }, {
+        "val": "Blanket",
+        "text": "Blanket"
+    }, {
+        "val": "Carpet",
+        "text": "Carpet"
+    }, {
+        "val": "Cloth",
+        "text": "Cloth"
+    }, {
+        "val": "Footware",
+        "text": "Footware"
+    },  {
+        "val": "Headware",
+        "text": "Headware"
+    }, {
+        "val": "Legware",
+        "text": "Legware"
+    }, {
+        "val": "Underware",
+        "text": "Underware"
+    }],
+
+    "Automotive Parts": [{
+        "val": "Accessories",
+        "text": "Accessories"
+    }, {
+        "val": "Hydraulic Parts",
+        "text": "Hydraulic Parts"
+    }, {
+        "val": "Knuckle Part",
+        "text": "Knuckle Part"
+    }, {
+        "val": "Lights",
+        "text": "Lights"
+    }, {
+        "val": "Metallic Parts",
+        "text": "Metallic Parts"
+    }, {
+        "val": "Plastic Parts",
+        "text": "Plastic Parts"
+    }],
+
+
+
+    "Bag and case": [{
+        "val": "Card bag/Wallet/Purse",
+        "text": "Card bag/Wallet/Purse"
+    }, {
+        "val": "Handbag/Tote bag/Bagpack/Knapsack/School bag with no castor/Travel bag",
+        "text": "Handbag/Tote bag/Bagpack/Knapsack/School bag with no castor/Travel bag"
+    }, {
+        "val": "Pencil/pencil bag/Cosmetic bag/Cooler bag/Laundry bag/Waist bag/Portfolio/Small or simple bag",
+        "text": "Pencil/pencil bag/Cosmetic bag/Cooler bag/Laundry bag/Waist bag/Portfolio/Small or simple bag"
+    }, {
+        "val": "Trolley case/School bag with castor",
+        "text": "Trolley case/School bag with castor"
+    }],
+
+
+
+
+
+    "Beauty / hairdressing and personal care appliance": [{
+        "val": "Facial sauna",
+        "text": "Facial sauna"
+    }, {
+        "val": "Hair curler / Hair Crimper / Hair setter / Staightener / hot air brush",
+        "text": "Hair curler / Hair Crimper / Hair setter / Staightener / hot air brush"
+    }, {
+        "val": "Hair dryer",
+        "text": "Hair dryer"
+    }, {
+        "val": "Nail care tools",
+        "text": "Nail care tools"
+    }, {
+        "val": "Shaver / Hair clipper / Hair trimmer",
+        "text": "Shaver / Hair clipper / Hair trimmer"
+    }],
+
+    "Chemical Products": [{
+        "val": "Hazardous Goods",
+        "text": "Hazardous Goods"
+    }, {
+        "val": "Medical Products",
+        "text": "Medical Products"
+    }],
+    "Construction and Mechanical Products": [{
+        "val": "Board Fireproofing",
+        "text": "Board Fireproofing"
+    }, {
+        "val": "Building Materials",
+        "text": "Building Materials"
+    }, {
+        "val": "Ceramic",
+        "text": "Ceramic"
+    }, {
+        "val": "DIY Tools",
+        "text": "DIY Tools"
+    }, {
+        "val": "Door Window",
+        "text": "Door Window"
+    }, {
+        "val": "Heavy Equipment",
+        "text": "Heavy Equipment"
+    }, {
+        "val": "Thermal Bottle",
+        "text": "Thermal Bottle"
+    }, {
+        "val": "Wood Floor",
+        "text": "Wood Floor"
+    }],
+
+    "Consumer Electronics": [{
+            "val": "Bulb",
+            "text": "Bulb"
+        },
+        {
+
+            "val": "Car Radio",
+            "text": "Car Radio"
+        },
+        {
+            "val": "CD Player",
+            "text": "CD Player"
+        },
+        {
+            "val": "CRT TV",
+            "text": "CRT TV"
+        },
+        {
+            "val": "Door Bell",
+            "text": "Door Bell"
+        }, {
+            "val": "Dual bay HDD Docking Station",
+            "text": "Dual bay HDD Docking Station"
+        }, {
+            "val": "DVD/Blu-ray Player/Recorder",
+            "text": "DVD/Blu-ray Player/Recorder"
+        }, {
+            "val": "DVD/Blu-ray Player/Recorder",
+            "text": "DVD/Blu-ray Player/Recorder"
+        }, {
+            "val": "DVR",
+            "text": "DVR"
+        }, {
+            "val": "Electronic Meter",
+            "text": "Electronic Meter"
+        }, {
+            "val": "Film Scanner",
+            "text": "Film Scanner"
+        }, {
+            "val": "Game Consoles",
+            "text": "Game Consoles"
+        }, {
+            "val": "GPS",
+            "text": "GPS"
+        }, {
+            "val": "Headphones",
+            "text": "Headphones"
+        }, {
+            "val": "LED Bulb/Lamp Bulb",
+            "text": "LED Bulb/Lamp Bulb"
+        }, {
+            "val": "LED/LCD TV",
+            "text": "LED/LCD TV"
+        }, {
+            "val": "LED Lighting System with Adaptor",
+            "text": "LED Lighting System with Adaptor"
+        }, {
+            "val": "Lights",
+            "text": "Lights"
+        }, {
+            "val": "Mobile Phone",
+            "text": "Mobile Phone"
+        }, {
+            "val": "Power bank",
+            "text": "Power bank"
+        }, {
+            "val": "Radio/Boom Box",
+            "text": "Radio/Boom Box"
+        }, {
+            "val": "Smartphone",
+            "text": "Smartphone"
+        }, {
+            "val": "Surround System",
+            "text": "Surround System"
+        }, {
+            "val": "Wall Clock",
+            "text": "Wall Clock"
+        }, {
+            "val": "Wireless Mouse",
+            "text": "Wireless Mouse"
+        }, {
+            "val": "USB/TF/SD Card Player",
+            "text": "USB/TF/SD Card Player"
+        }
+    ],
+
+    
+        "Fabric": [{
+        "val": "Fabric",
+        "text": "Fabric"
+    }],
+    
+    "Fashion and Accessories": [{
+            "val": "Card holder",
+            "text": "Card holder"
+        }, {
+            "val": "Eyeware",
+            "text": "Eyeware"
+        }, {
+            "val": "Jewelry",
+            "text": "Jewelry"
+        }, {
+            "val": "Key chain / Key ring",
+            "text": "Key chain / Key ring"
+        }, {
+            "val": "Watch",
+            "text": "Watch"
+        }
+
+    ],
+    
+    
+    
+    "Fans": [{
+
+        "val": "Box fan",
+        "text": "Box fan"
+    }, {
+        "val": "Ceiling fan",
+        "text": "Ceiling fan"
+    }, {
+        "val": "Clip - Wall fan",
+        "text": "Clip - Wall fan"
+    }, {
+        "val": "Cooler fan",
+        "text": "Cooler fan"
+    }, {
+        "val": "Desk - Stamd fan / table fan / floor fan",
+        "text": "Desk - Stamd fan / table fan / floor fan"
+    }, {
+        "val": "Fan with UV light",
+        "text": "Fan with UV light"
+    }, {
+        "val": "High velocity fan / Industrial fan",
+        "text": "High velocity fan / Industrial fan"
+    }, {
+        "val": "Solar fan",
+        "text": "Solar fan"
+    }, {
+        "val": "Tower fan",
+        "text": "Tower fan"
+    }, {
+        "val": "Table Fan and Wall Fan",
+        "text": "Table Fan and Wall Fan"
+    }, {
+        "val": "Ventilator / Window fan",
+        "text": "Ventilator / Window fan"
+    }],
+    "Furniture": [{
+        "val": "Bar Counter",
+        "text": "Bar Counter"
+    }, {
+        "val": "Bed",
+        "text": "Bed"
+    }, {
+        "val": "Bench",
+        "text": "Bench"
+    }, {
+        "val": "Chair",
+        "text": "Chair"
+    }, {
+        "val": "Clothing Chest",
+        "text": "Clothing Chest"
+    }, {
+        "val": "Cupboard",
+        "text": "Cupboard"
+    }, {
+        "val": "Shelf",
+        "text": "Shelf"
+    }, {
+        "val": "Sofa",
+        "text": "Sofa"
+    }, {
+        "val": "Sofa Bed",
+        "text": "Sofa Bed"
+    }, {
+        "val": "Stool",
+        "text": "Stool"
+    }, {
+        "val": "Table",
+        "text": "Table"
+    }],
+    "Garden": [{
+        "val": "Christmas Decoration",
+        "text": "Christmas Decoration"
+    }, {
+        "val": "Electronic Tools",
+        "text": "Electronic Tools"
+    }, {
+        "val": "Garden Furniture",
+        "text": "Garden Furniture"
+    }, {
+        "val": "Garden Hose",
+        "text": "Garden Hose"
+    }, {
+        "val": "Garden Light",
+        "text": "Garden Light"
+    }, {
+        "val": "Mechanical Tools",
+        "text": "Mechanical Tools"
+    }, {
+        "val": "Motorized Tools",
+        "text": "Motorized Tools"
+    }, {
+        "val": "Pools",
+        "text": "Pools"
+    }, {
+        "val": "Pruning Implements",
+        "text": "Pruning Implements"
+    }],
+
+
+
+    "Garment": [{
+            "val": "Artificial leather garment",
+            "text": "Artificial leather garment"
+        }, {
+            "val": "Babywear (set product)",
+            "text": "Babywear (set product)"
+        }, {
+            "val": "Babywear (single piece product)",
+            "text": "Babywear (single piece product)"
+        }, {
+            "val": "Bra",
+            "text": "Bra"
+        }, {
+            "val": "Brief",
+            "text": "Brief"
+        }, {
+            "val": "Children wear(Set product)",
+            "text": "Children wear(Set product)"
+        }, {
+            "val": "Children wear(Single piece product)",
+            "text": "Children wear(Single piece product)"
+        }, {
+            "val": "Down/Quilted Jacket",
+            "text": "Down/Quilted Jacket"
+        }, {
+            "val": "Jacket/Parka/Coat/Robes",
+            "text": "Jacket/Parka/Coat/Robes"
+        }
+
+        , {
+            "val": "Jeans",
+            "text": "Jeans"
+        }, {
+            "val": "Leather garment",
+            "text": "Leather garment"
+        }, {
+            "val": "Pinafore/Bustier/Boxer/Vest/Swimwear (single piece product)",
+            "text": "Pinafore/Bustier/Boxer/Vest/Swimwear (single piece product)"
+        }, {
+            "val": "Pullover/Pants/Short/Breeches/Bloomers/Skirt/Culottes/Swimwear(set product)",
+            "text": "Pullover/Pants/Short/Breeches/Bloomers/Skirt/Culottes/Swimwear(set product)"
+        }, {
+            "val": "Shirt/Blouse",
+            "text": "Shirt/Blouse"
+        }, {
+            "val": "Silk garment",
+            "text": "Silk garment"
+        }, {
+            "val": "Suits",
+            "text": "Suits"
+        }, {
+            "val": "Sweater/Cardigan",
+            "text": "Sweater/Cardigan"
+        }, {
+            "val": "T-shirt",
+            "text": "T-shirt"
+        }, {
+            "val": "Trousers/Dress/Pajamas(set product)/Dungaree/Overall",
+            "text": "Trousers/Dress/Pajamas(set product)/Dungaree/Overall"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+
+
+
+
+
+    "Garment accessories": [{
+            "val": "Belt",
+            "text": "Belt"
+        }, {
+            "val": "Gloves",
+            "text": "Gloves"
+        }, {
+            "val": "Hat/Cap",
+            "text": "Hat/Cap"
+        }, {
+            "val": "Headband/Handkerchief/Bandana/Kneelet/Wrister/Bracer",
+            "text": "Headband/Handkerchief/Bandana/Kneelet/Wrister/Bracer"
+        }, {
+            "val": "Scarf",
+            "text": "Scarf"
+        }, {
+            "val": "Sock/Stocking",
+            "text": "Sock/Stocking"
+        }, {
+            "val": "Tie/Bow",
+            "text": "Tie/Bow"
+        }
+
+    ],
+
+
+
+
+    "Gifts and Promo Items": [{
+        "val": "Glass Products",
+        "text": "Glass Products"
+    }, {
+        "val": "Metallic Products",
+        "text": "Metallic Products"
+    }, {
+        "val": "Paper Products",
+        "text": "Paper Products"
+    }, {
+        "val": "Plastic Products",
+        "text": "Plastic Products"
+    }, {
+        "val": "Porcelain Products",
+        "text": "Porcelain Products"
+    }, {
+        "val": "Wooden Products",
+        "text": "Wooden Products"
+    }, {
+        "val": "Wool Products",
+        "text": "Wool Products"
+    }],
+    "Healthcare and Beauty": [{
+        "val": "Cosmetic Products",
+        "text": "Cosmetic Products"
+    }, {
+        "val": "Electronic Products",
+        "text": "Electronic Products"
+    }, {
+        "val": "Metallic Products",
+        "text": "Metallic Products"
+    }, {
+        "val": "Plastic Products",
+        "text": "Plastic Products"
+    }, {
+        "val": "Wooden Products",
+        "text": "Wooden Products"
+    }, {
+        "val": "Wool Products",
+        "text": "Wool Products"
+    }],
+    "Home Appliances": [{
+        "val": "Air Conditioner",
+        "text": "Air Conditioner"
+    }, {
+        "val": "Drying Frame",
+        "text": "Drying Frame"
+    }, {
+        "val": "Electric Blanket",
+        "text": "Electric Blanket"
+    }, {
+        "val": "Electric Massager",
+        "text": "Electric Massager"
+    }, {
+        "val": "Electric Shaver",
+        "text": "Electric Shaver"
+    }, {
+        "val": "Electric Torch",
+        "text": "Electric Torch"
+    }, {
+        "val": "Flat Iron",
+        "text": "Flat Iron"
+    }, {
+        "val": "Floor Fan",
+        "text": "Floor Fan"
+    }, {
+        "val": "Floor Light",
+        "text": "Floor Light"
+    }, {
+        "val": "Hair Dryer",
+        "text": "Hair Dryer"
+    }, {
+        "val": "Hoover",
+        "text": "Hoover"
+    }, {
+        "val": "Humidifier",
+        "text": "Humidifier"
+    }, {
+        "val": "Table Lamp and Wall Light",
+        "text": "Table Lamp and Wall Light"
+    }],
+    "Homeware": [{
+        "val": "Bathroom Items",
+        "text": "Bathroom Items"
+    }, {
+        "val": "Glassware",
+        "text": "Glassware"
+    }, {
+        "val": "Homeware",
+        "text": "Homeware"
+    }, {
+        "val": "Metal Ware",
+        "text": "Metal Ware"
+    }, {
+        "val": "Plastic Ware",
+        "text": "Plastic Ware"
+    }, {
+        "val": "Table Ware",
+        "text": "Table Ware"
+    }],
+
+
+    "Hometextile": [{
+        "val": "Bed cover/Bed skirt/Quilt cover",
+        "text": "Bed cover/Bed skirt/Quilt cover"
+    }, {
+        "val": "Bed sheet/Matting",
+        "text": "Bed sheet/Matting"
+    }, {
+        "val": "Curtain",
+        "text": "Curtain"
+    }, {
+        "val": "Cushion/ Pillow",
+        "text": "Cushion/ Pillow"
+    }, {
+        "val": "Mosquito net",
+        "text": "Mosquito net"
+    }, {
+        "val": "Oven gloves",
+        "text": "Oven gloves"
+    }, {
+        "val": "Pillowcase",
+        "text": "Pillowcase"
+    }, {
+        "val": "Quilt/Duvet",
+        "text": "Quilt/Duvet"
+    }, {
+        "val": "Sofa/chair cover",
+        "text": "Sofa/chair cover"
+    }, {
+        "val": "Table cloth/Apron/Towel/Dishcloth/Carpe",
+        "text": "Table cloth/Apron/Towel/Dishcloth/Carpe"
+    }],
+
+
+
+    "Hotel Supplies": [{
+        "val": "Shampoo/Shower Gel/Hair Conditioner",
+        "text": "Shampoo/Shower Gel/Hair Conditioner"
+    }, {
+        "val": "Shower Cap",
+        "text": "Shower Cap"
+    }, {
+        "val": "Soap",
+        "text": "Soap"
+    }, {
+        "val": "Toothbrush",
+        "text": "Toothbrush"
+    }, {
+        "val": "Toothpaste",
+        "text": "Toothpaste"
+    }],
+    "Kitchen Appliances": [{
+            "val": "Barbecue",
+            "text": "Barbecue"
+        }, {
+            "val": "Blender",
+            "text": "Blender"
+        }, {
+            "val": "Bottle Opener",
+            "text": "Bottle Opener"
+        }, {
+            "val": "Ceramic Glass Cooktop",
+            "text": "Ceramic Glass Cooktop"
+        }, {
+            "val": "Coffee Grinder",
+            "text": "Coffee Grinder"
+        }, {
+            "val": "Coffee Machine",
+            "text": "Coffee Machine"
+        }, {
+            "val": "Cooker",
+            "text": "Cooker"
+        }, {
+            "val": "Disinfection Cabinet",
+            "text": "Disinfection Cabinet"
+        }, {
+            "val": "Dish Washer",
+            "text": "Dish Washer"
+        }, {
+            "val": "Dryer",
+            "text": "Dryer"
+        }, {
+            "val": "Fridge",
+            "text": "Fridge"
+        }, {
+            "val": "Fryolato",
+            "text": "Fryolato"
+        }, {
+            "val": "Glass Induction Cooker",
+            "text": "Glass Induction Cooker"
+        }, {
+            "val": "Hand Mixer",
+            "text": "Hand Mixer"
+        }, {
+            "val": "Ice Machine",
+            "text": "Ice Machine"
+        }, {
+            "val": "Juice Extractor",
+            "text": "Juice Extractor"
+        }, {
+            "val": "Kitchen Aid",
+            "text": "Kitchen Aid"
+        }, {
+            "val": "Kitchen Cutter",
+            "text": "Kitchen Cutter"
+        }, {
+            "val": "Meat Grinder",
+            "text": "Meat Grinder"
+        }, {
+            "val": "Microwave",
+            "text": "Microwave"
+        }, {
+            "val": "Milk Frother",
+            "text": "Milk Frother"
+        }, {
+            "val": "Plate Warmer",
+            "text": "Plate Warmer"
+        }, {
+            "val": "Rice Cooker",
+            "text": "Rice Cooker"
+        }, {
+            "val": "Sandwich Maker",
+            "text": "Sandwich Maker"
+        }, {
+            "val": "Toaster",
+            "text": "Toaster"
+        }, {
+            "val": "Washing Machine",
+            "text": "Washing Machine"
+        }, {
+            "val": "Water Cooker",
+            "text": "Water Cooker"
+        }, {
+            "val": "Water Dispenser",
+            "text": "Water Dispenser"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+
+
+
+
+    "Lighting": [{
+        "val": "Bathroom light",
+        "text": "Bathroom light"
+    }, {
+        "val": "Bicycle light",
+        "text": "Bicycle light"
+    }, {
+        "val": "Bulb",
+        "text": "Bulb"
+    }, {
+        "val": "Christmas figure",
+        "text": "Christmas figure"
+    }, {
+        "val": "Christmas tree (with lights)",
+        "text": "Christmas tree (with lights)"
+    }, {
+        "val": "Floor lamp / Table lamp",
+        "text": "Floor lamp / Table lamp"
+    }, {
+        "val": "Garden light",
+        "text": "Garden light"
+    }, {
+        "val": "Halogen light",
+        "text": "Halogen light"
+    }, {
+        "val": "Lantern",
+        "text": "Lantern"
+    }, {
+        "val": "LED light",
+        "text": "LED light"
+    }, {
+        "val": "Light chain",
+        "text": "Light chain"
+    }, {
+        "val": "Neon light",
+        "text": "Neon light"
+    }, {
+        "val": "Party light / rock light",
+        "text": "Party light / rock light"
+    }, {
+        "val": "Post lamp",
+        "text": "Post lamp"
+    }, {
+        "val": "Rope light",
+        "text": "Rope light"
+    }, {
+        "val": "Save energy lamp",
+        "text": "Save energy lamp"
+    }, {
+        "val": "Sensor light / induction lamp",
+        "text": "Sensor light / induction lamp"
+    }, {
+        "val": "Torches / Flash light",
+        "text": "Torches / Flash light"
+    }, {
+        "val": "Track light",
+        "text": "Track light"
+    }],
+
+
+    "Machinery Parts/Products": [{
+        "val": "Complete Machine",
+        "text": "Complete Machine"
+    }, {
+        "val": "Hydraulic Parts",
+        "text": "Hydraulic Parts"
+    }, {
+        "val": "Knuckle Parts",
+        "text": "Knuckle Parts"
+    }, {
+        "val": "Metallic Parts",
+        "text": "Metallic Parts"
+    }, {
+        "val": "Plastic Parts",
+        "text": "Plastic Parts"
+    }],
+    "Multimedia": [{
+        "val": "Analog Camera",
+        "text": "Analog Camera"
+    }, {
+        "val": "Cable, Connectivity",
+        "text": "Cable, Connectivity"
+    }, {
+        "val": "Calculator",
+        "text": "Calculator"
+    }, {
+        "val": "Camcorder",
+        "text": "Camcorder"
+    }, {
+        "val": "Computer Component",
+        "text": "Computer Component"
+    }, {
+        "val": "DAB Radio",
+        "text": "DAB Radio"
+    }, {
+        "val": "DECT Phone",
+        "text": "DECT Phone"
+    }, {
+        "val": "Desktop Computer",
+        "text": "Desktop Computer"
+    }, {
+        "val": "Digital camera",
+        "text": "Digital camera"
+    }, {
+        "val": "Digital Picture Frame",
+        "text": "Digital Picture Frame"
+    }, {
+        "val": "DVB-T",
+        "text": "DVB-T"
+    }, {
+        "val": "External HDD, USB , SD Flash",
+        "text": "External HDD, USB , SD Flash"
+    }, {
+        "val": "Keyboard/Mouse",
+        "text": "Keyboard/Mouse"
+    }, {
+        "val": "MID, Tablet",
+        "text": "MID, Tablet"
+    }, {
+        "val": "Monitor",
+        "text": "Monitor"
+    }, {
+        "val": "MP3 Player",
+        "text": "MP3 Player"
+    }, {
+        "val": "MP4 Player",
+        "text": "MP4 Player"
+    }, {
+        "val": "Notebook",
+        "text": "Notebook"
+    }, {
+        "val": "Power Bank",
+        "text": "Power Bank"
+    }, {
+        "val": "Printer/Scanner",
+        "text": "Printer/Scanner"
+    }, {
+        "val": "Router, WiFi",
+        "text": "Router, WiFi"
+    }, {
+        "val": "Smartwatch",
+        "text": "Smartwatch"
+    }, {
+        "val": "USB Turntable",
+        "text": "USB Turntable"
+    }, {
+        "val": "Voice Recorder",
+        "text": "Voice Recorder"
+    }, {
+        "val": "Wolf Proof Device",
+        "text": "Wolf Proof Device"
+    }],
+    "Outdoor and Sports Products": [{
+        "val": "Badminton",
+        "text": "Badminton"
+    }, {
+        "val": "Badminton Racket",
+        "text": "Badminton Racket"
+    }, {
+        "val": "Basketball",
+        "text": "Basketball"
+    }, {
+        "val": "Bike",
+        "text": "Bike"
+    }, {
+        "val": "Bottle",
+        "text": "Bottle"
+    }, {
+        "val": "Fitness Machine",
+        "text": "Fitness Machine"
+    }, {
+        "val": "Hat",
+        "text": "Hat"
+    }, {
+        "val": "Helmet",
+        "text": "Helmet"
+    }, {
+        "val": "Kettle",
+        "text": "Kettle"
+    }, {
+        "val": "Ping pong Balls",
+        "text": "Ping pong Balls"
+    }, {
+        "val": "Raincoat",
+        "text": "Raincoat"
+    }, {
+        "val": "Sports Series",
+        "text": "Sports Series"
+    }, {
+        "val": "Table Tennis Racket",
+        "text": "Table Tennis Racket"
+    }, {
+        "val": "Tent",
+        "text": "Tent"
+    }, {
+        "val": "Umbrella",
+        "text": "Umbrella"
+    }],
+    "Pet Products": [{
+        "val": "Basket",
+        "text": "Basket"
+    }, {
+        "val": "Bowl",
+        "text": "Bowl"
+    }, {
+        "val": "Cage",
+        "text": "Cage"
+    }, {
+        "val": "Cat Tree",
+        "text": "Cat Tree"
+    }, {
+        "val": "Dog House",
+        "text": "Dog House"
+    }, {
+        "val": "Leash",
+        "text": "Leash"
+    }, {
+        "val": "Toys",
+        "text": "Toys"
+    }],
+
+    "Power tools": [{
+        "val": "Band new",
+        "text": "Band new"
+    }, {
+        "val": "Biscuit Jointer",
+        "text": "Biscuit Jointer"
+    }, {
+        "val": "Cement Mixer",
+        "text": "Cement Mixer"
+    }, {
+        "val": "Chain saw",
+        "text": "Chain saw"
+    }, {
+        "val": "Chipper shredder",
+        "text": "Chipper shredder"
+    }, {
+        "val": "Chisel",
+        "text": "Chisel"
+    }, {
+        "val": "Circular Saw",
+        "text": "Circular Saw"
+    }, {
+        "val": "Electric Sander",
+        "text": "Electric Sander"
+    }, {
+        "val": "Glue gun/hot melt gun",
+        "text": "Glue gun/hot melt gun"
+    }, {
+        "val": "Grinder",
+        "text": "Grinder"
+    }, {
+        "val": "Heat air gun",
+        "text": "Heat air gun"
+    }, {
+        "val": "Jig saw",
+        "text": "Jig saw"
+    }, {
+        "val": "Miter saw",
+        "text": "Miter saw"
+    }, {
+        "val": "Scissors",
+        "text": "Scissors"
+    }, {
+        "val": "Screw driver",
+        "text": "Screw driver"
+    }, {
+        "val": "Screw",
+        "text": "Screw"
+    }, {
+        "val": "Sewing machine",
+        "text": "Sewing machine"
+    }, {
+        "val": "Soldering Iron / soldering gun",
+        "text": "Soldering Iron / soldering gun"
+    }, {
+        "val": "Tile cutting machine",
+        "text": "Tile cutting machine"
+    }, {
+        "val": "Wall Chaser",
+        "text": "Wall Chaser"
+    }],
+
+
+
+
+
+
+    "Printing and Packaging": [{
+        "val": "Books and Printings",
+        "text": "Books and Printings"
+    }, {
+        "val": "Food Packaging",
+        "text": "Food Packaging"
+    }, {
+        "val": "Packaging(no food contact)",
+        "text": "Packaging(no food contact)"
+    }, {
+        "val": "Stationery",
+        "text": "Stationery"
+    }],
+
+
+
+
+    "Shoes": [{
+        "val": "Knee Boots/Safety shoes",
+        "text": "Knee Boots/Safety shoes"
+    }, {
+        "val": "Oxford/Maccasin/Sport shoes/Hiking shoes/Ankle boot",
+        "text": "Oxford/Maccasin/Sport shoes/Hiking shoes/Ankle boot"
+    }, {
+        "val": "Pump",
+        "text": "Pump"
+    }, {
+        "val": "Rain shoes",
+        "text": "Rain shoes"
+    }, {
+        "val": "Sandals/Canvas shoes/Casual shoes",
+        "text": "Sandals/Canvas shoes/Casual shoes"
+    }, {
+        "val": "Slippers",
+        "text": "Slippers"
+    }],
+
+
+
+
+    "Stationery and Luggage Products": [{
+            "val": "Ball Pen",
+            "text": "Ball Pen"
+        }, {
+            "val": "Book Skewer",
+            "text": "Book Skewer"
+        }, {
+            "val": "Correction Fluid and Tape",
+            "text": "Correction Fluid and Tape"
+        }, {
+            "val": "Gel Pen",
+            "text": "Gel Pen"
+        }, {
+            "val": "Handle Bag",
+            "text": "Handle Bag"
+        }, {
+            "val": "Hole Puncher",
+            "text": "Hole Puncher"
+        },
+        {
+            "val": "Knapsack",
+            "text": "Knapsack"
+        }, {
+            "val": "Laptop Bag",
+            "text": "Laptop Bag"
+        }, {
+            "val": "Metal and Plastic Folder",
+            "text": "Metal and Plastic Folder"
+        }, {
+            "val": "MID Case",
+            "text": "MID Case"
+        }, {
+            "val": "Mobile Phone Case",
+            "text": "Mobile Phone Case"
+        }, {
+            "val": "Notebook",
+            "text": "Notebook"
+        }, {
+            "val": "Notes Paper",
+            "text": "Notes Paper"
+        }, {
+            "val": "Pencil",
+            "text": "Pencil"
+        }, {
+            "val": "Pen Pot and Pen Case",
+            "text": "Pen Pot and Pen Case"
+        }, {
+            "val": "Reusable Bag",
+            "text": "Reusable Bag"
+        }, {
+            "val": "Shopping Bag",
+            "text": "Shopping Bag"
+        }, {
+            "val": "Scissor",
+            "text": "Scissor"
+        },
+        {
+            "val": "Tape and Callipers",
+            "text": "Tape and Callipers"
+        }, {
+            "val": "Tote bag",
+            "text": "Tote bag"
+        }, {
+            "val": "Trolley Case/Bag",
+            "text": "Trolley Case/Bag"
+        }, {
+            "val": "Wallet",
+            "text": "Wallet"
+        }
+    ],
+    "Toys / Recreational Items": [{
+        "val": "Baby Items",
+        "text": "Baby Item"
+    }, {
+        "val": "Electronic toys",
+        "text": "Electronic toys"
+    }, {
+        "val": "Inflatable Toys",
+        "text": "Inflatable Toys"
+    }, {
+        "val": "Metallic Toys",
+        "text": "Metallic Toys"
+    }, {
+        "val": "Musical Instruments",
+        "text": "Musical Instruments"
+    }, {
+        "val": "Plastic Toyss",
+        "text": "Plastic Toyss"
+    }, {
+        "val": "Stuffed Toys",
+        "text": "Stuffed Toys"
+    }, {
+        "val": "Wooden Toys",
+        "text": "Wooden Toys"
+    }],
+    
+    
+
+    
+    
+    "Others": [{
+        "val": "Others",
+        "text": "Others"
+    }]
+}]

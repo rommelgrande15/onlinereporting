@@ -1,0 +1,8 @@
+.row-top{
+	top:150px;
+}
+.right-border{
+	border-right: 1px dashed #d5d5d5;
+	height: 400px;
+	vertical-align: middle;
+}

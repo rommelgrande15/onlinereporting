@@ -1,0 +1,111 @@
+Inspection Info Table
+-id
+-report_number
+-inspection_date
+-place of inspection (factory Address)
+-Client Name
+-Supplier Name
+-Factory Name
+-Contact Person
+-Contact Number
+
+CHECKLIST TABLE
+-id
+-report_number
+-image_path
+
+SUPPLIER_OVERVIEW TABLE
+-id
+-report_number
+-factory_location
+-factory_gate
+-warehouse
+-loading area
+
+CARGO_INFO TAble
+-id
+-report_number
+-inspector_arrival_time
+-cargo_ready_time
+-container_arrival_time
+-loading_started
+-inspection_finished
+-loading_facility_cooperation
+-container_number
+-shipping_seal_number
+-sera_seal_number
+-container_size
+-container_status
+-holes
+-dents
+-floor_condition
+-doors_condition
+-light_proof
+-loading_area
+-front_doors
+-left_side
+-right_side
+-container_floor_and_joint
+-container_wall_and_joint
+-container_ceiling
+-container_doors_closed
+-equipment_interchange_receipt
+-palletized_cargo
+-specify_pallet_material
+-pallet_material
+-fumigation_stamp
+-number_of_pallets_loaded
+-from_pallet_number
+-to_pallet_number
+
+Detailed Product Details Table
+-id
+-report_number
+-product_count
+-invoice_no
+-po_no
+-model_number
+-description
+-package_qty
+-pieces
+-material
+
+Detailed Product Qty Table
+-id
+-report_number
+-match
+-boxes_opened_photos
+-boxes_opened_revision
+-total_boxes_opened
+
+Observations Table
+-id
+-report_number
+-damaged_products
+-damaged_product_photo (nullable)
+-other_obsetvations
+
+Loading Table
+-id
+-report_number
+-container_number_photo
+-empty_container
+-half_loaded_container
+-full_loaded_container
+-container_closed_seals
+-shipping_seal_number
+-sera_seal_number
+-warehouse
+
+Detailed Photos Table
+-id
+-report_number
+-photo_count
+-photo_label
+-image_data
+
+Deatiled Photos Description Table
+-id
+-report_number
+-photo_count
+-product_description
