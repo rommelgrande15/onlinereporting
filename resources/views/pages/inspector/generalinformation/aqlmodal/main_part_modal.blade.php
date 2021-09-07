@@ -10,17 +10,18 @@
         </div>
         <div class="modal-body">
           <div class="row">
+		
             <div class="col-md-6">
               <div class="form-group">
                 <label for="usr">Quantity:</label>
-                <input type="number" class="form-control aql_qty" name="aql_qty" id="aql_qty" min="1" oninput="this.value = Math.abs(this.value)" required value={{ $psi_products->aql_qty }}>
+                <input type="number" class="form-control aql_qty" name="aql_qty[]" id="aql_qty" min="1" oninput="this.value = Math.abs(this.value)" required value={{ $psi_products->aql_qty }}>
                 <div id="aqlRequired1" style="display:none" ><p style="color:red;">This field is required! </p></div>
               </div>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
                   <label for="quantity_unit">Unit:</label>
-                <select class="form-control aql_qty_unit" id="aql_qty_unit" name="aql_qty_unit" required>
+                <select class="form-control aql_qty_unit" id="aql_qty_unit" name="aql_qty_unit[]" required>
                     <option selected="selected" value="">Select a unit</option>
                     <option value="piece">Piece/s</option>
                     <option value="roll">Roll/s</option>
@@ -39,7 +40,7 @@
             <div class="col-md-6">
               <div class="form-group">
                 <label for="usr">Normal Level:</label>
-                <select class="form-control aql_normal_level" name="aql_normal_level" id="aql_normal_level" required>
+                <select class="form-control aql_normal_level" name="aql_normal_level[]" id="aql_normal_level" required>
                   <option value="">--Select--</option>
                   <option value="I">I</option>
                   <option value="II">II</option>
@@ -54,7 +55,7 @@
             <div class="col-md-6">
               <div class="form-group">
                 <label for="usr">Special Level:</label>
-                <select class="form-control aql_special_level" name="aql_special_level" id="aql_special_level" required>
+                <select class="form-control aql_special_level" name="aql_special_level[]" id="aql_special_level" required>
                   <option value="">--Select--</option>
                   <option value="S1">S1</option>
                   <option value="S2">S2</option>
@@ -79,11 +80,11 @@
                   <tr>
                     <th>Major</th>
                     <td>
-                    <input type="text" name="aql_major" id="aql_major" class="form-control aql_select aql_major" value={{ $psi_products->aql_major }} readonly > 
+                    <input type="text" name="aql_major[]" id="aql_major" class="form-control aql_select aql_major" value={{ $psi_products->aql_major }} readonly > 
                     <div id="aqlRequired5" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     <td>
-                      <input type="text " name="max_major" id="max_major" class="form-control max_major" value={{ $psi_products->max_allowed_major }} readonly>
+                      <input type="text " name="max_major[]" id="max_major" class="form-control max_major" value={{ $psi_products->max_allowed_major }} readonly>
                       <div id="aqlRequired6" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     
@@ -92,10 +93,10 @@
                   <tr>
                     <th>Minor</th>
                     <td>
-                      <input type="text" name="aql_minor" id="aql_minor" class="form-control aql_select aql_minor" value={{ $psi_products->aql_minor }} readonly>
+                      <input type="text" name="aql_minor[]" id="aql_minor" class="form-control aql_select aql_minor" value={{ $psi_products->aql_minor }} readonly>
                       <div id="aqlRequired7" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
-                    <td><input type="text" name="max_minor" id="max_minor" class="form-control max_minor" value={{ $psi_products->max_allowed_minor }} readonly>
+                    <td><input type="text" name="max_minor[]" id="max_minor" class="form-control max_minor" value={{ $psi_products->max_allowed_minor }} readonly>
                     <div id="aqlRequired8" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     
@@ -115,11 +116,11 @@
   
                   <tr>
                     <th>Normal</th>
-                    <td><input type="text" name="aql_normal_letter" id="aql_normal_letter" class="form-control aql_normal_letter" readonly>
+                    <td><input type="text" name="aql_normal_letter[]" id="aql_normal_letter" class="form-control aql_normal_letter" readonly>
                     <div id="aqlRequired9" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     
-                    <td><input type="text" name="aql_normal_sampsize" id="aql_normal_sampsize" class="form-control aql_normal_sampsize" readonly/>
+                    <td><input type="text" name="aql_normal_sampsize[]" id="aql_normal_sampsize" class="form-control aql_normal_sampsize" readonly/>
                     <div id="aqlRequired10" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     
@@ -127,11 +128,11 @@
   
                   <tr>
                     <th>Special</th>
-                    <td><input type="text" name="aql_special_letter" id="aql_special_letter" class="form-control aql_special_letter" readonly>
+                    <td><input type="text" name="aql_special_letter[]" id="aql_special_letter" class="form-control aql_special_letter" readonly>
                     <div id="aqlRequired11" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     
-                    <td><input type="text" name="aql_special_sampsize" id="aql_special_sampsize" class="form-control aql_special_sampsize" readonly/>
+                    <td><input type="text" name="aql_special_sampsize[]" id="aql_special_sampsize" class="form-control aql_special_sampsize" readonly/>
                     <div id="aqlRequired12" style="display:none" ><p style="color:red;">This field is required! </p></div>
                     </td>
                     

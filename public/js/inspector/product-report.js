@@ -25867,8 +25867,11 @@ function saveInspectorReportDetails() {
                 type: 'success',
                 text: "Your Report Is Successfully Uploaded, Please wait and download your generated file from your report. Thankyou!",
             }, function() {
-                var report_id_generate = document.getElementById('report_id').value;
-                var url = '/generate-docx/' + report_id_generate;
+                // var report_id_generate = document.getElementById('report_id').value;
+                // var url = '/generate-docx/' + report_id_generate;
+                // document.location.href = url;
+                var inspector_id = document.getElementById('inspector_id').value;
+                var url = '/inspector-reviewer/' + inspector_id;
                 document.location.href = url;
                 // swal({
                 //     title: "Success",

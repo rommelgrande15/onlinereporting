@@ -116,9 +116,9 @@ Route::get('/inspector-reports-general/{id}',[
 	'as'=>'inspector-reports-general',
 ]);
 
-Route::post('/inspector-reports-save',[
+Route::post('onlinereport/inspector-reports-save',[
 	'uses'=>'InspectorAccountController@saveInspectorReportDetails',
-	'as'=>'inspector-reports-save',
+	'as'=>'onlinereport/inspector-reports-save',
 ]);
 
 
@@ -137,24 +137,24 @@ Route::get('/inspector-summary-result/{id}',[
 	'as'=>'inspector-summary-result',
 ]);
 
-Route::get('/generate-docx/{id}',[
+Route::get('onlinereport/generate-docx/{id}/{pid}',[
 	'uses'=>'InspectorAccountController@generateDocx',
-	'as'=>'generate-docx',
+	'as'=>'onlinereport/generate-docx',
 ]);
 
-Route::get('/getpstcodedata/{id}',[
+Route::get('onlinereport/getpstcodedata/{id}',[
 	'uses'=>'InspectorAccountController@getPstCode',
-	'as'=>'getpstcodedata'
+	'as'=>'onlinereport/getpstcodedata'
 ]);
 
-Route::get('/getpartnumber/{id}',[
+Route::get('onlinereport/getpartnumber/{id}',[
 	'uses'=>'InspectorAccountController@getPartNumberData',
-	'as'=>'getpartnumber'
+	'as'=>'onlinereport/getpartnumber'
 ]);
 
-Route::get('/getmainpartdata/{id}',[
+Route::get('onlinereport/getmainpartdata/{id}',[
 	'uses'=>'InspectorAccountController@getMainPartData',
-	'as'=>'getmainpartdata'
+	'as'=>'onlinereport/getmainpartdata'
 ]);
 
 
